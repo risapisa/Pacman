@@ -1,0 +1,17 @@
+Task M7:
+1.I think that the refactorings I made to the Pacman project improved the
+code immensely, because they made the code easier to read and so that certain
+methods didn't continually repeat themselves over and over again. For example,
+the methods in TrackerMonster, RandomMonster, and Pacman overlapped so much
+that it almost didn't make sense for them not to be in a superclass together.
+
+2. The primary goals of performing refactoring in a project are to preserve
+the code's behavior while improving attributes of the software, such as
+readability, maintainability, or the design of the system.
+
+3. a. 3
+b. 4
+c. 2
+d. 4
+e. 4
+f. 3
